@@ -1,0 +1,6 @@
+Ûkis1;m1;rugiai;6,2;7:20:00
+Ûkis2;m1;kvieèiai;4;7:50:00
+Ûkis3;m2;rugiai;5;9:20:00
+Ûkis4;m3;rugiai;10;10:20:00
+Ûkis5;m1;kvieèiai;5;11:20:00
+Ûkis6;m1;rugiai;5;12:20:00
