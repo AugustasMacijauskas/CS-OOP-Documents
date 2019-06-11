@@ -1,0 +1,2 @@
+ List<string> failai1 = Directory.GetFiles(Directory.GetCurrentDirectory(), "Duomenys\\*.txt").ToList();
+           

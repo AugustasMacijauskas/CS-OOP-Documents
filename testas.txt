@@ -1,0 +1,81 @@
+pirmas:
+4 3 2
+
+first = 5
+last = 2
+
+
+
+antras:
+2 5
+
+
+
+
+
+
+
+2 3 4 5 6 7
+3 4 5 6 7 8
+
+r1 = r2 = new Mazgas(3)
+r2 = 
+
+r1 = new Mazgas(3, null);
+
+3 4 5 6 7 8
+
+1
+
+
+
+
+
+
+
+
+
+10 7 3 2 8 11
+
+
+
+
+
+
+
+
+
+
+savaite
+savaite semestro
+savaite semestro septinta
+savaite semestro septinta dabar
+
+
+dabar
+dabar semestro
+dabar semestro septinta
+dabar semestro septinta savaite
+
+
+semestro
+semestro savaite
+semestro savaite septinta
+semestro savaite septinta dabar
+
+
+semestro
+semestro septinta
+semestro septinta savaite 
+semestro septinta savaite dabar
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+// 1
+Deklas
+19
+10
+4
+1
+2
+4
+6
+8
+
+
+Skaiciai
+1
+4
+10
+19
+
+
+
+// 2
+elem -> 3
+vv -> "3"
+vv1 -> "3:00:00"
+atsakymas -> "3:00:00"
+zingsnis = 21
+laikas = 8:21
+
+elem = 6
+vv = "6"
+vv1 = "00:6:00"
+atsakymas = "03:06"00"
+zingsnis = 41
+laikas = 9:02
+
+elem = 9
+vv = "9"
+vv1 = "09:00:00"
+atsakymas = "12:06"00"
+zingsnis = 61
+laikas = 10:03
+
+elem = 12
+vv = "12"
+vv1 = "00:12:00"
+atsakymas = "12:18:00"
+zingsnis = 81
+laikas = 11:24
+
+sustoja
+totalminutes = 738
+
+
+// 3
+Skaiciai
+1
+4
+10
+19
+
+Deklas
+21
+12
+6
+3
+2
+4
+6
+8
+
+
+// 4
+rodo i -1
+rodo i 0
+---------
+Juozas 38
+---------
+rodo i 1
+rodo i 2
+---------
+Jonas 25
+---------
+rodo i 3
+stoja
+
+
+
+
